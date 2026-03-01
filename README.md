@@ -50,7 +50,7 @@
 
 ## Overview
 
-Personal-Library is a full-stack web application that empowers users to organize, search, and enrich their personal book collections with ease. Built with Spring Boot and React, it combines robust backend services with an engaging, modern frontend.
+This Personal-Library is a full-stack web application that empowers users to organize, search, and enrich their personal book collections with ease. Built with Spring Boot and React, it combines robust backend services with an engaging, modern frontend.
 
 **Why Personal-Library?**
 
